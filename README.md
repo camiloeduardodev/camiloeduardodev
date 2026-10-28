@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:512BD4,100:06B6D4&height=220&section=header&text=Camilo%20Eduardo&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Desenvolvedor%20.NET%20%C2%B7%20C%23%20%C2%B7%20ASP.NET%20Core%20%C2%B7%20S%C3%A3o%20Paulo%2C%20Brasil&descAlignY=56&descSize=18" alt="Camilo Eduardo — Desenvolvedor .NET" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/hero.svg" alt="Camilo Eduardo — Desenvolvedor .NET" />
 
 <p align="center">
   <a href="https://camiloeduardo.tech">
@@ -13,7 +13,7 @@
   <a href="https://wa.me/5511942299452"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:06B6D4&height=3&section=header" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/divider.svg" alt="" />
 
 ## Cheguei ao código pelo caminho mais longo
 
@@ -21,17 +21,9 @@ Comecei no **suporte técnico**. Passei por **QA**. Hoje construo **backend em C
 
 Essa passagem deixou uma marca: **penso no que pode quebrar antes de escrever**. Projeto APIs REST, modelo dados em SQL Server e PostgreSQL com EF Core e cuido do ciclo inteiro — do banco ao deploy em Docker. Uso Clean Architecture e SOLID pelo que resolvem na prática, não como enfeite. E quando a entrega pede, viro full stack e levo a funcionalidade até a tela em React.
 
-```console
-$ whoami --camilo
-foco      Backend .NET · APIs REST
-stack     C# · ASP.NET Core · EF Core · CQRS/MediatR
-dados     PostgreSQL · SQL Server
-entrega   Docker · Azure DevOps · Nginx/Traefik
-também    React · TypeScript · RabbitMQ · Pix
-onde      Seven Inovações · São Paulo · desde fev/2024
-```
+<p align="center"><img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/terminal.svg" alt="Perfil em terminal" /></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:06B6D4&height=3&section=header" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/divider.svg" alt="" />
 
 ## Stack
 
@@ -96,7 +88,7 @@ onde      Seven Inovações · São Paulo · desde fev/2024
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:06B6D4&height=3&section=header" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/divider.svg" alt="" />
 
 ## Desenvolvimento assistido por IA
 
@@ -111,7 +103,7 @@ Agentes de código acoplados ao fluxo real de engenharia — **não como autocom
 
 > **O ganho não é digitar menos.** É varrer um legado inteiro antes de decidir, e chegar na causa raiz com evidência em vez de palpite.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:06B6D4&height=3&section=header" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/divider.svg" alt="" />
 
 ## Projetos
 
@@ -180,7 +172,7 @@ PBKDF2-HMAC-SHA256 com 210 mil iterações. Autorização e CSRF como filtro glo
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:06B6D4&height=3&section=header" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/divider.svg" alt="" />
 
 ## A subida
 
@@ -200,7 +192,7 @@ nov/2025  ●  Desenvolvedor Pleno .......... arquitetura, code review, full sta
 
 **Formação** · Análise e Desenvolvimento de Sistemas — UNICID (2026 — 2028)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:06B6D4&height=3&section=header" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/divider.svg" alt="" />
 
 <h3 align="center">Aberto a oportunidades, projetos e conversas técnicas.</h3>
 
@@ -211,4 +203,4 @@ nov/2025  ●  Desenvolvedor Pleno .......... arquitetura, code review, full sta
   <a href="https://wa.me/5511942299452"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:512BD4,100:0F172A&height=130&section=footer" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/footer.svg" alt="" />
