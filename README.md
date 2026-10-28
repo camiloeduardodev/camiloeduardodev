@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://camiloeduardo.tech"><img src="https://img.shields.io/badge/portf%C3%B3lio-camiloeduardo.tech-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://camiloeduardo.tech"><img src="https://img.shields.io/badge/portf%C3%B3lio-camiloeduardo.tech-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/camilo-eduardo-986782254"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:camilocontato19@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
