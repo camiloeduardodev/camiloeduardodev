@@ -36,7 +36,7 @@ onde      Seven Inovações · São Paulo · desde fev/2024
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,azure,azure,git,github,linux,nginx,rabbitmq,react,ts,tailwind,vite,nodejs&theme=dark&perline=8" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,azure,cloudflare,git,github,linux,nginx,rabbitmq,react,ts,tailwind,vite,nodejs&theme=dark&perline=8" alt="Stack" />
 </p>
 
 <table>
