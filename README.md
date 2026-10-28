@@ -15,11 +15,20 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/divider.svg" alt="" />
 
-## Cheguei ao código pelo caminho mais longo
+## Sobre mim
 
-Comecei no **suporte técnico**. Passei por **QA**. Hoje construo **backend em C# e ASP.NET Core**.
+Desenvolvedor **.NET** com experiência prática em **C#, ASP.NET Core e Entity Framework**, sobre **SQL Server** e **PostgreSQL**. Atuo do início ao fim do ciclo de desenvolvimento — da concepção à entrega em produção — participando de decisões técnicas, modelagem de dados e implementação de soluções alinhadas ao negócio. Também tenho vivência **full stack com React**, o que me permite contribuir em entregas completas.
 
-Essa passagem deixou uma marca: **penso no que pode quebrar antes de escrever**. Projeto APIs REST, modelo dados em SQL Server e PostgreSQL com EF Core e cuido do ciclo inteiro — do banco ao deploy em Docker. Uso Clean Architecture e SOLID pelo que resolvem na prática, não como enfeite. E quando a entrega pede, viro full stack e levo a funcionalidade até a tela em React.
+> Comecei no suporte técnico, passei por QA e hoje construo backend. Essa passagem deixou uma marca: **penso no que pode quebrar antes de escrever**.
+
+### O que eu resolvo
+
+| O problema | Como eu resolvo |
+|---|---|
+| **Sistemas que não conversam entre si** | APIs REST e integrações que conectam aplicações e automatizam fluxos de dados, com contrato, versionamento e padrão de erro definidos |
+| **Aplicação difícil de manter ou escalar** | Clean Architecture e SOLID para código organizado e testável — separação de responsabilidades que viabiliza manutenção e escala sem reescrita |
+| **Consulta lenta e banco mal modelado** | Modelagem e tuning em EF Core: revisão de índices, análise de plano e correção de N+1, priorizando tempo de resposta e integridade transacional |
+| **"Na minha máquina funciona"** | Docker e Azure para padronizar a infraestrutura do desenvolvimento à produção, com CI/CD e deploy versionado |
 
 <p align="center"><img width="100%" src="https://raw.githubusercontent.com/camiloeduardodev/camiloeduardodev/main/terminal.svg" alt="Perfil em terminal" /></p>
 
