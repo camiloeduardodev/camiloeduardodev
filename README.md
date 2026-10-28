@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://camiloeduardo.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=700&color=06B6D4&center=true&vCenter=true&width=820&height=45&lines=Backend+em+C%23+e+ASP.NET+Core;APIs+REST+%C2%B7+Clean+Architecture+%C2%B7+CQRS;Do+modelo+de+dados+ao+deploy+em+Docker;Comecei+no+suporte.+Passei+por+QA.+Hoje+construo+o+backend." alt="O que eu faço" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=700&color=06B6D4&center=true&vCenter=true&width=820&height=45&lines=Backend+em+C%23+e+ASP.NET+Core;APIs+REST+%C2%B7+Clean+Architecture+%C2%B7+CQRS;Do+modelo+de+dados+ao+deploy+em+Docker" alt="O que eu faço" />
   </a>
 </p>
 
